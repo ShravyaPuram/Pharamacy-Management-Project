@@ -1,4 +1,4 @@
-# Pharamacy-Management-Project
+# Pharamacy Management Project
 Project implemented using linked list
 Developed an advanced inventory management system for a pharmacy,utilized an array of structures in c
 Tracks medications but also integrates various features like supplier management, sales tracking, automatic stock replenishment alerts.
